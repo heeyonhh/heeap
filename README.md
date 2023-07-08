@@ -3,10 +3,10 @@
 <h1>0708</h1>
 <bt>1. React Redux Typescript 깃 Set Up</bt>
 npx create-react-app 프로젝트이름 --template redux-typescript (nvm use 18.16.1)<br>
-cd 프로젝트이름 / npm start<br>
-<br>깃허브 연결 / vs code 진입<br>
-app 폴더 redux로 수정 /features 폴더 삭제 / 스크립트 내용 정리<br>
-리액트 리덕스 앱 오류 없는지 확인
+cd 프로젝트이름 / npm start
+<br>깃허브 연결 / vs code 진입
+<br>app 폴더 redux로 수정 /features 폴더 삭제 / 스크립트 내용 정리
+<br>리액트 리덕스 앱 오류 없는지 확인
 <bt>2. 파이어 베이스 셋팅</bt>
 <br>파이어 베이스 프로젝트 생성 / 웹앱 추가 / 파이어베이스 설치 npm install firebase
 <br>src > Firebase 폴더 > Firebaseconfig.ts & FirebaseApi.ts 파일 생성
