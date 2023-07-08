@@ -2,6 +2,7 @@
 <br>
 <h1>0708</h1>
 <bt>1. React Redux Typescript 깃 Set Up</bt>
+<br>
 npx create-react-app 프로젝트이름 --template redux-typescript (nvm use 18.16.1)<br>
 cd 프로젝트이름 / npm start
 <br>깃허브 연결 / vs code 진입
