@@ -9,6 +9,8 @@ cd 프로젝트이름 / npm start
 <br>app 폴더 redux로 수정 /features 폴더 삭제 / 스크립트 내용 정리
 <br>리액트 리덕스 앱 오류 없는지 확인
 <br>
+<br>
+<br>
 2. 파이어 베이스 셋팅<br><br>
 <br>파이어 베이스 프로젝트 생성 / 웹앱 추가 / 파이어베이스 설치 npm install firebase
 <br>src > Firebase 폴더 > Firebaseconfig.ts & FirebaseApi.ts 파일 생성
@@ -19,6 +21,8 @@ cd 프로젝트이름 / npm start
 <br>src > Firebase > firebaseContext.tsx 파일 생성 / Firebase 모듈 export 하기
 <br>src > Firebase > index.ts 파일 만들기
 <br>index.tsx > FirebaseApi & FirebaseContext import / app에 FirebaseContext.Provider wrap
+<br>
+<br>
 <br>3. Build Log in with Google Flow<br><br>
 <br>Material UI install 하기 / npm install @mui/material @emotion/react @emotion/styled
 <br>Firebase Authentication 켜기 / Google login 켜기
@@ -32,6 +36,8 @@ cd 프로젝트이름 / npm start
 <br>const props WithFirebaseApiProps 함수
 <br>Loading state 처리하기 / import CircularProgress useAppDispatch, useAppSelector, RootState
 <br>const isLoadingState 함수
+<br>
+<br>
 <br>4. 추가적인 유저정보 저장 기능<br><br>
 <br>src > types.ts 만들기
 <br>파이어베이스에서 Firestore Database 활성화 하기
