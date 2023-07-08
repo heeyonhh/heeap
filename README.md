@@ -1,14 +1,14 @@
 리액트 + 파이어베이스 이용한 포트폴리오에 넣을 프로젝트 만들기 시작 !<br>
 <br>
-<strong>0708<strong/>
+<h1>0708</h1>
 <br>
-<strong>1. React Redux Typescript 깃 Set Up<strong/>
+<bt>1. React Redux Typescript 깃 Set Up</bt>
 npx create-react-app 프로젝트이름 --template redux-typescript (nvm use 18.16.1)<br>
 cd 프로젝트이름 / npm start<br>
 <br>깃허브 연결 / vs code 진입<br>
 app 폴더 redux로 수정 /features 폴더 삭제 / 스크립트 내용 정리<br>
 리액트 리덕스 앱 오류 없는지 확인
-<br><strong>2. 파이어 베이스 셋팅<strong/>
+<bt>2. 파이어 베이스 셋팅</bt>
 <br>파이어 베이스 프로젝트 생성 / 웹앱 추가 / 파이어베이스 설치 npm install firebase
 <br>src > Firebase 폴더 > Firebaseconfig.ts & FirebaseApi.ts 파일 생성
 <br>Firebase CLI 설치 npm install -g firebase-tools
@@ -18,7 +18,7 @@ app 폴더 redux로 수정 /features 폴더 삭제 / 스크립트 내용 정리<
 <br>src > Firebase > firebaseContext.tsx 파일 생성 / Firebase 모듈 export 하기
 <br>src > Firebase > index.ts 파일 만들기
 <br>index.tsx > FirebaseApi & FirebaseContext import / app에 FirebaseContext.Provider wrap
-<br><strong>3. Build Log in with Google Flow<strong/>
+<bt>3. Build Log in with Google Flow</bt>
 <br>Material UI install 하기 / npm install @mui/material @emotion/react @emotion/styled
 <br>Firebase Authentication 켜기 / Google login 켜기
 <br>src > Firebase > firebaseApi.ts 에 Auth 관련 api 추가 / auth import googleAuthProvider export
@@ -50,6 +50,6 @@ app 폴더 redux로 수정 /features 폴더 삭제 / 스크립트 내용 정리<
 <br>const onboarding 추가.... (정보를 넣으라는 페이지)
 <br>edit profile page rerturn < E d i t P r o f i l e / > 추가
 <br>
-<br><strong>0709<strong/>
+<br><h1>0709</h1>
 <br>
 <br>
