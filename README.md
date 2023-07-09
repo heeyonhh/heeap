@@ -129,10 +129,3 @@ EditUsernameEditMode component 만들기
 EditProfilePicViewMode component 만들기
 
 EditProfilePicEditMode component 만들기 
-
-
-
-## 📱Todo list
-
-
-###
