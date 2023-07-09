@@ -1,5 +1,7 @@
-# 리액트 + 파이어베이스 이용한 포트폴리오에 넣을 프로젝트 만들기 시작 !
+# React + Firebase 포트폴리오 프로젝트 시작 !
 
+
+## 📱로그인 앱
 
 ## 0708
 
@@ -106,4 +108,31 @@ edit profile page rerturn <EditProfile/> 추가
 ## 0709
 
 
-### 
+### 프로필 사진 업데이트
+
+components > Onboarding.tsx 파일 만들기
+
+OnboardingBase component 내용 src/App.tsx -> Onboarding.tsx 옮기기
+
+components > EditProfile.tsx 파일 만들기
+
+EditProfileBase component 내용 src/App.tsx -> components/EditProfile.tsx 옮기기
+
+npm install @mui/icons-material @mui/material @emotion/styled @emotion/react
+
+Username / ProfilePic Update Flow 만들기
+
+EditUsernameViewMode component 만들기
+
+EditUsernameEditMode component 만들기
+
+EditProfilePicViewMode component 만들기
+
+EditProfilePicEditMode component 만들기 
+
+
+
+## 📱Todo list
+
+
+###
