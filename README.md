@@ -1,7 +1,7 @@
 #리액트 + 파이어베이스 이용한 포트폴리오에 넣을 프로젝트 만들기 시작 !<br>
 <br>
 <h1>0708</h1>
-##1. React Redux Typescript 깃 Set Up
+**1. React Redux Typescript 깃 Set Up**
 <br><br>
 npx create-react-app 프로젝트이름 --template redux-typescript (nvm use 18.16.1)
 <br>cd 프로젝트이름 / npm start
